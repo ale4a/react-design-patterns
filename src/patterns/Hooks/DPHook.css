@@ -1,0 +1,15 @@
+.btn{
+  margin: 0.2rem;
+}
+
+.btn-red {
+  background-color: red;
+}
+
+.btn-warming {
+  background-color: yellow;
+}
+
+.btn-success {
+  background-color: green;
+}
